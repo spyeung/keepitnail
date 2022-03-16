@@ -59,3 +59,9 @@ body {
   #loginModal .modal-header {
     background-color: #FAEACB;
     color: white; }
+
+.index-img {
+  width: 300px;
+  height:  300px;
+  align-items: center;
+}
