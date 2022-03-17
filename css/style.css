@@ -37,31 +37,15 @@ body {
     color: inherit;
     text-decoration: none; }
   
-  .carousel-caption {
-    background-color: rgba(0, 0, 0, 0.5); }
-  
-  .carousel {
-    border: solid #9CC0E7; }
-  
   textarea {
     resize: none; }
   
-  #carouselButton {
-    position: absolute;
-    right: 0;
-    bottom: 0;
-    z-index: 100; }
-  
-  #reserveModal .modal-header {
-    background-color: teal;
-    color: white; }
-  
-  #loginModal .modal-header {
-    background-color: #FAEACB;
-    color: white; }
-
 .index-img {
   width: 300px;
   height:  300px;
   align-items: center;
+}
+
+footer {
+  margin-top: 30px;
 }
